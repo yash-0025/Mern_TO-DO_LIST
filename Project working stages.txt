@@ -1,0 +1,13 @@
+1 => Node app init
+2 => Express server setup
+3 => database setup (try catch) async await
+4 => create task model {schema}
+5 => task routes (routing) post get put delete
+6 => frontend create react app
+7 => delete unnecessary files
+8 => create services
+9 => task component 
+10 => add update delete task 
+11 => css styling for app
+12 => creating changes in app.js
+13 => deployment
